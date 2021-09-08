@@ -64,7 +64,7 @@ I engaged as a critical member of the iTRACS development scrum team by ensuring 
 - Postman
 - VirtualBox
 
-## Tools
+## Cloud Development
 - Azure
 - Heroku
 - AWS
