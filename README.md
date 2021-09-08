@@ -1,7 +1,7 @@
 ### Software Engineer
 
 # Profile
-I am a Software Development senior at Grand Canyon University. I engage in courses that deal with technologies and methodologies that have made me a capable software engineer. I am deeply passionate about problem solving and hard work. My ambition is to apply my abundant capabilities to the professional environment. My experiences have profoundly developed my personal competence, making me a reliable, adaptable, and team-oriented individual.
+I am a Software Development senior at Grand Canyon University. I engage in courses that deal with technologies and methodologies that have made me a capable software engineer. I am deeply passionate about problem solving and hard work. My ambition is to apply my abundant capabilities to the professional environment. My professional and educational experiences have greatly contributed to my competence, making me a reliable, adaptable, and team-oriented individual.
 
 # Education
 Bachelor of Science in Software Development  
