@@ -1,7 +1,7 @@
 ### Software Engineer
 
 # Profile
-I am a Software Development senior at Grand Canyon University. I engage in courses that deal with technologies and methodologies that have made me a capable software engineer. I am deeply passionate about problem solving and hard work. My ambition is to apply my abundant capabilities to the professional environment. My professional and educational experiences have greatly contributed to my competence, making me a reliable, adaptable, and team-oriented individual.
+I am a Software Development senior at Grand Canyon University. I engage in courses dealing with technologies and methodologies that have made me a capable software engineer. I am deeply passionate about problem solving and hard work. My ambition is to apply my abundant capabilities to the professional environment. My professional and educational experiences have greatly contributed to my competence, making me a reliable, adaptable, and team-oriented individual.
 
 # Education
 Bachelor of Science in Software Development  
@@ -13,7 +13,7 @@ GPA: 4.00
 Software Quality Assurance Intern  
 CommScope  
 May 2021 – August 2021  
-I engaged as a critical member of the iTRACS development scrum team by ensuring the satisfactory quality of software, recording and providing valuable feedback, and participating in and contributing to code reviews.
+I engaged as a critical member of the iTRACS development scrum team. I ensured that the quality of software was satisfactory, recorded and provided valuable feedback, and participated in and contributed to code reviews.
 
 # Projects
 - [Jingle](https://jingle.azurewebsites.net/jingle/home/) A Java Spring dynamic web application hosted on Azure. It offers a music-sharing platform that features login, register, product creation, product lists, and product viewing. it uses Bootstrap and jQuery for a responsive front-end.
